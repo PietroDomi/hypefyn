@@ -7,8 +7,8 @@ Have you thought about the effect of social media hype on financial information?
 - /website: contains the interactive code for the website
 
 2. To install the necessary libraries, run on the command line \
-	pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3. To run the code instead, you would need to have access to the cloud database where the tweets are. However, the folder contains already the data from a precious run. To see the website instead, you need to run on the command line \
-	python -m http.server 8000 \
-then open on a browser localhost:8000/ and click on hypefyn.html
+`python -m http.server 8000` \
+then open the following link [localhost:8000/] on a browser and click on hypefyn.html
